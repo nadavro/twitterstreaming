@@ -2,10 +2,12 @@
 ## Install
 clone the repo
 ```
-npm i
+npm install
 node server.js
 ```
-##Using
+## Using
 
+```
 http://localhost:3000/api/sentiment
 http://localhost:3000/api/top_hashtags
+```
