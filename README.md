@@ -1,7 +1,8 @@
 # twitterstreaming
 ## Install
-clone the repo
+
 ```
+git clone https://github.com/nadavro/twitterstreaming.git
 npm install
 node server.js
 ```
